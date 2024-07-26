@@ -1,3 +1,3 @@
-# Scientific-Calculator
+# Enigma
 
 This program is a scientifc calculator created using Python's tkinter library. It features a user-friendly interface with a variety of buttons for basic arithmetic operations (addition, subtraction, multiplication, division), as well as scientific functions including square root, exponentiation, logarithms, and trigonometric functions (sine, cosine, tangent). The calculator evaluates mathematical expressions and displays results, rounding decimal results to five decimal places for functions such as logarithms and trigonometric calculations. The layout is organized with buttons for digits, operators, and scientific functions, providing a comprehensive tool for both basic and advanced mathematical computations.
